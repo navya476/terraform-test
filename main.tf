@@ -30,7 +30,7 @@ resource "aws_security_group" "terra_Sg"{
   }
 
   tags {
-    Name = "baseline"
+    Name = "sample-sg"
   }
 }
 
